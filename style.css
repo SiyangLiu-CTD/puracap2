@@ -1007,6 +1007,7 @@ body{
 /* Start Faq CSS */
 .why-choose{
 	background:#fff;
+	padding-top: 200px;
 }
 .why-choose .choose-right{
 	height:100%;
@@ -4183,3 +4184,4 @@ body{
 /*=========================
 	End Footer CSS
 ===========================*/
+ 
