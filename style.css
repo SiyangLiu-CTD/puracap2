@@ -4099,7 +4099,7 @@ body{
 }
 .footer .single-footer .newsletter-inner input {
 	background: transparent;
-	border: 1px solid #fff;
+	border: 1px solid #fff !important;
 	height: 50px;
 	line-height: 42px;
 	width: 100%;
@@ -4184,4 +4184,9 @@ body{
 /*=========================
 	End Footer CSS
 ===========================*/
- 
+.divider {
+    width: 70px;
+    height: 6px;
+    background-color: #1a76d1;
+	margin: auto;
+}

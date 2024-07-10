@@ -81,8 +81,8 @@ Version:	1.1
 		$(".hero-slider").owlCarousel({
 			loop:true,
 			autoplay:true,
-			smartSpeed: 500,
-			autoplayTimeout:3500,
+			smartSpeed: 1000,
+			autoplayTimeout:8000,
 			singleItem: true,
 			autoplayHoverPause:true,
 			items:1,
