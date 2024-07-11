@@ -1,9 +1,5 @@
 /* =====================================
-Template Name: 	Mediplus.
-Author Name: Naimur Rahman
-Website: http://wpthemesgrid.com/
-Description: Mediplus - Doctor HTML Template.
-Version:	1.1
+
 ========================================*/ 
 
 /*--------------------------------------------------------------
@@ -475,7 +471,7 @@ Preloader Area CSS
 .section-title{
 	text-align: center;
     margin-bottom: 60px;
-    padding: 0 150px;
+    padding: 0 120px;
 }
 .section-title h2 {
 	font-size: 32px;
